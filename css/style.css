@@ -1,0 +1,70 @@
+/* RESET */
+* {
+  margin: 0;
+}
+
+/* INIZIO Testata della pagina */
+header {
+  background-image: url("../img/pattern.png");
+  background-color: #4ea0ff;
+  background-size: 380px;
+}
+
+.logo {
+  height: 52px;
+  margin-left: 100px;
+  margin-top: 33px;
+  margin-bottom: 10px;
+  background-image: url("../img/pattern.png");
+}
+
+/* FINE Testata Pagina */
+
+/* INIZIO MAIN (e sottosezioni) */
+
+/* COMMON MAIN */
+.separated {
+  margin-top: 20px;
+}
+main {
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 1024px;
+}
+/* FINE COMMON MAIN */
+
+/* INIZIO Sezione Titolo */
+
+h1 {
+  line-height: 38px;
+}
+
+.caption {
+  color: grey;
+}
+.caption.bigger {
+  font-weight: bold;
+}
+.caption.smaller {
+  font-size: 12px;
+}
+.author {
+  color: cornflowerblue;
+}
+
+/* FINE Sezione Titolo */
+
+.marker {
+  background-color: yellow;
+}
+/* INIZIO sezione corredo fotografico */
+figure {
+  font-size: 12px;
+  /* non so se sia corretto agire qua e non direttamente su figcaption, */
+}
+
+ul {
+  /* ringraziamo stackoverflow per questo contributo */
+  list-style-position: inside;
+  padding-left: 0;
+}
