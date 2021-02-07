@@ -1,6 +1,6 @@
 # html-css-booleaner
 
-Created with CodeSandbox
+Created with ~~CodeSandbox~~ *VS Code*
 
 Ancora qualcosa da riordinare/razionalizzare, ma esercizio tendenzialmente completato.
 Credo ci sia qualcosa di fondamentalmente scorretto nel css alternativo, tuttavia sono soddisfatto della resa:
