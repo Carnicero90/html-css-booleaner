@@ -8,3 +8,5 @@ visivamente non è troppo lontano da quello che volevo fare (che poi sia bruttto
 
 ![collassato](img/screenshot-collapsed.png?raw=true)
 ![schermo intero](img/screenshot-fullscreen.png?raw=true)
+![confronto versioni](img/cfr_due_versioni.png?raw=true)
+
