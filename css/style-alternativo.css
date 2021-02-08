@@ -112,7 +112,6 @@ figure figcaption:nth-of-type(2) {
 
 section {
     position: absolute;
-    float: top;
     top: 0;
     right: 0;
     width: 48%;
